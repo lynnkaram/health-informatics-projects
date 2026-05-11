@@ -1,6 +1,6 @@
-# Health Informatics Projects
+# Health Informatics, Algorithms in Genomics, and Evolutionary Biology Projects
 
-This repository contains coursework and projects related to health informatics, biomedical data analysis, clinical data systems, and genomics. The projects combine healthcare-focused computational methods with practical data analysis and machine learning workflows. 
+This repository contains coursework and projects related to health informatics, biomedical data analysis, clinical data systems, and genomics. The projects combine healthcare-focused computational methods with practical data analysis and machine learning workflows. These are part of the CB&B 7400 Introduction to Health Informatics, CB&B Algorithms in Genomics and EEB 5225 Evolutionary Biology courses at Yale University. 
 
 ## Homework 1: Healthcare Data Quality
 **Folder:** `homework-1-healthcare-data-quality`
