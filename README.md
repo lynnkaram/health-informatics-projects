@@ -1,4 +1,4 @@
-## Health Informatics Projects
+# Health Informatics Projects
 
 This repository contains coursework and projects related to health informatics, biomedical data analysis, clinical data systems, and genomics. The projects combine healthcare-focused computational methods with practical data analysis and machine learning workflows. 
 
