@@ -67,6 +67,17 @@ Topics explored:
 - Bioinformatics workflows
 - Biological data processing
 - Statistical genomics
+
+## Evolution Simulation
+
+Interactive evolutionary biology simulation exploring adaptation and thermoregulation using the fennec fox as a model organism.
+
+Key topics:
+- Natural selection and adaptation
+- Allen’s rule
+- Evolutionary biology concepts
+- Interactive HTML/CSS/JavaScript simulation
+- Scientific communication and visualization
   
 ## Tools & Libraries
 
